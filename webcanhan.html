@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Trường Chinh</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: rgb(0, 0, 0);
+      height: 100vh;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    canvas {
+      position: fixed;
+      top: 0;
+      left: 0;
+      z-index: -1;
+    }
+
+    .container {
+      backdrop-filter: blur(15px);
+      background-color: rgba(255, 255, 255, 0.1);
+      border-radius: 20px;
+      padding: 40px;
+      text-align: center;
+      color: white;
+      box-shadow: 0 8px 30px rgba(0,0,0,0.4);
+      max-width: 420px;
+      width: 90%;
+    }
+
+    .avatar {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      border: 4px solid white;
+      object-fit: cover;
+      margin-bottom: 20px;
+      transition: all 0.4s ease;
+    }
+
+    .avatar:hover {
+      transform: scale(1.15);
+      border-radius: 20px;
+    }
+
+    .name {
+      font-size: 2em;
+      font-weight: bold;
+      margin-bottom: 20px;
+      text-shadow: 0 0 10px rgba(0,0,0,0.7);
+    }
+
+    .time {
+      font-size: 16px;
+      margin-bottom: 15px;
+      color: #eee;
+      text-shadow: 0 0 5px rgba(0,0,0,0.5);
+    }
+
+    .links {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+
+    .link-btn, .bank-btn {
+      background-color: rgba(0,0,0,0.5);
+      color: white;
+      font-size: 16px;
+      padding: 12px 20px;
+      border-radius: 30px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      text-decoration: none;
+      width: 100%;
+      max-width: 250px;
+      justify-content: center;
+      transition: background-color 0.3s ease, transform 0.3s ease;
+      border: none;
+      cursor: pointer;
+    }
+
+    .link-btn:hover, .bank-btn:hover {
+      background-color: rgba(255,255,255,0.3);
+      transform: scale(1.05);
+    }
+
+    .btns {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 5px;
+      margin-bottom: 20px;
+    }
+
+    .qr-box {
+      max-height: 0;
+      opacity: 0;
+      overflow: hidden;
+      visibility: hidden;
+      transition: all 0.5s ease;
+      margin-bottom: 0;
+    }
+
+    .qr-box.show {
+      max-height: 300px;
+      opacity: 1;
+      visibility: visible;
+      margin-bottom: 10px;
+    }
+
+    .qr-box img {
+      width: 200px;
+      border-radius: 20px;
+      margin-bottom: 10px;
+    }
+
+    .qr-info {
+      font-size: 14px;
+      color: #eee;
+    }
+
+    .link-btn img {
+      width: 20px;
+      height: 20px;
+      vertical-align: middle;
+    }
+
+
+    body, html {
+        overflow-y: auto; /* Cho phép cuộn dọc */
+        height: auto; /* Tránh khóa chiều cao cố định */
+    }
+
+  </style>
+</head>
+<body>
+  <canvas id="canvas"></canvas>
+
+  <div class="container">
+    <img src="avatar.jpg" alt="Avatar" class="avatar">
+    <div class="name">Trường Chinh</div>
+
+    <div class="links">
+      <a href="https://www.facebook.com/trgchinhh/" target="_blank" class="link-btn"><i class="fab fa-facebook-f"></i>Facebook</a>
+      <a href="https://t.me/trgchinhh" target="_blank" class="link-btn"><i class="fab fa-telegram"></i>Telegram</a>
+      <a href="https://www.threads.net/@trgchinhh" target="_blank" class="link-btn"><i class="fab fa-threads"></i>Threads</a>
+      <a href="https://github.com/trgchinhh" target="_blank" class="link-btn"><i class="fab fa-github"></i>GitHub</a>
+      <a href="https://www.instagram.com/trgchinhh/" target="_blank" class="link-btn"><i class="fab fa-instagram"></i>Instagram</a>
+      <a href="https://zalo.me/0797616410" target="_blank" class="link-btn">
+        <i class="fas fa-comment-dots"></i>Zalo
+      </a>
+      
+    </div>
+
+    <div class="btns">
+      <button class="bank-btn" onclick="toggleQR('tech')"><i class="fas fa-university"></i>Techcombank</button>
+      <div class="qr-box" id="qr-tech">
+        <img src="techcombank.jpg" alt="QR Tech">
+        <div class="qr-info">Tên: Nguyen Truong Chinh<br>Số tài khoản: 1430042006<br>Ngân hàng: Techcombank</div>
+      </div>
+
+      <button class="bank-btn" onclick="toggleQR('mb')"><i class="fas fa-university"></i>MBBank</button>
+      <div class="qr-box" id="qr-mb">
+        <img src="mbbank.jpg" alt="QR MB">
+        <div class="qr-info">Tên: Nguyen Truong Chinh<br>Số tài khoản: 00230042006<br>Ngân hàng: Mbbank</div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // QR toggle logic
+    let currentOpen = null;
+    function toggleQR(bank) {
+      const qrTech = document.getElementById("qr-tech");
+      const qrMb = document.getElementById("qr-mb");
+
+      if (bank === "tech") {
+        if (currentOpen === "tech") {
+          qrTech.classList.remove("show");
+          currentOpen = null;
+        } else {
+          qrTech.classList.add("show");
+          qrMb.classList.remove("show");
+          currentOpen = "tech";
+        }
+      }
+
+      if (bank === "mb") {
+        if (currentOpen === "mb") {
+          qrMb.classList.remove("show");
+          currentOpen = null;
+        } else {
+          qrMb.classList.add("show");
+          qrTech.classList.remove("show");
+          currentOpen = "mb";
+        }
+      }
+    }
+
+    // Đồng hồ thời gian thực
+
+    // Hiệu ứng pháo hoa nền
+    const canvas = document.getElementById("canvas");
+    const ctx = canvas.getContext("2d");
+
+    let cw = window.innerWidth;
+    let ch = window.innerHeight;
+    canvas.width = cw;
+    canvas.height = ch;
+
+    let fireworks = [];
+    let particles = [];
+    let hue = 120;
+
+    function random(min, max) {
+        return Math.random() * (max - min) + min;
+    }
+
+    function calculateDistance(x1, y1, x2, y2) {
+        const x = x2 - x1;
+        const y = y2 - y1;
+        return Math.sqrt(x * x + y * y);
+    }
+
+    class Firework {
+        constructor(sx, sy, tx, ty) {
+        this.x = sx;
+        this.y = sy;
+        this.sx = sx;
+        this.sy = sy;
+        this.tx = tx;
+        this.ty = ty;
+        this.distanceToTarget = calculateDistance(sx, sy, tx, ty);
+        this.distanceTraveled = 0;
+        this.coordinates = [];
+        this.coordinateCount = 3;
+        while (this.coordinateCount--) {
+            this.coordinates.push([this.x, this.y]);
+        }
+        this.angle = Math.atan2(ty - sy, tx - sx);
+        this.speed = 2;
+        this.acceleration = 1.05;
+        this.brightness = random(50, 70);
+        }
+
+        update(index) {
+        this.coordinates.pop();
+        this.coordinates.unshift([this.x, this.y]);
+        this.speed *= this.acceleration;
+        const vx = Math.cos(this.angle) * this.speed;
+        const vy = Math.sin(this.angle) * this.speed;
+        this.distanceTraveled = calculateDistance(this.sx, this.sy, this.x + vx, this.y + vy);
+
+        if (this.distanceTraveled >= this.distanceToTarget) {
+            createParticles(this.tx, this.ty);
+            fireworks.splice(index, 1);
+        } else {
+            this.x += vx;
+            this.y += vy;
+        }
+        }
+
+        draw() {
+        ctx.beginPath();
+        ctx.moveTo(this.coordinates[this.coordinates.length - 1][0], this.coordinates[this.coordinates.length - 1][1]);
+        ctx.lineTo(this.x, this.y);
+        ctx.strokeStyle = `hsl(${hue}, 100%, ${this.brightness}%)`;
+        ctx.stroke();
+        }
+    }
+
+    class Particle {
+        constructor(x, y) {
+        this.x = x;
+        this.y = y;
+        this.coordinates = [];
+        this.coordinateCount = 5;
+        while (this.coordinateCount--) {
+            this.coordinates.push([this.x, this.y]);
+        }
+        this.angle = random(0, Math.PI * 2);
+        this.speed = random(1, 10);
+        this.friction = 0.95;
+        this.gravity = 1;
+        this.hue = random(hue - 50, hue + 50);
+        this.brightness = random(50, 80);
+        this.alpha = 1;
+        this.decay = random(0.015, 0.03);
+        }
+
+        update(index) {
+        this.coordinates.pop();
+        this.coordinates.unshift([this.x, this.y]);
+        this.speed *= this.friction;
+        this.x += Math.cos(this.angle) * this.speed;
+        this.y += Math.sin(this.angle) * this.speed + this.gravity;
+        this.alpha -= this.decay;
+
+        if (this.alpha <= 0) {
+            particles.splice(index, 1);
+        }
+        }
+
+        draw() {
+        ctx.beginPath();
+        ctx.moveTo(this.coordinates[this.coordinates.length - 1][0], this.coordinates[this.coordinates.length - 1][1]);
+        ctx.lineTo(this.x, this.y);
+        ctx.strokeStyle = `hsla(${this.hue}, 100%, ${this.brightness}%, ${this.alpha})`;
+        ctx.stroke();
+        }
+    }
+
+    function createParticles(x, y) {
+        let particleCount = 30;
+        while (particleCount--) {
+        particles.push(new Particle(x, y));
+        }
+    }
+
+    function loop() {
+        requestAnimationFrame(loop);
+        hue += 0.5;
+        ctx.globalCompositeOperation = 'destination-out';
+        ctx.fillStyle = `rgba(0, 0, 0, 0.2)`;
+        ctx.fillRect(0, 0, cw, ch);
+        ctx.globalCompositeOperation = 'lighter';
+
+        for (let i = fireworks.length - 1; i >= 0; i--) {
+        fireworks[i].draw();
+        fireworks[i].update(i);
+        }
+
+        for (let i = particles.length - 1; i >= 0; i--) {
+        particles[i].draw();
+        particles[i].update(i);
+        }
+    }
+
+    canvas.addEventListener('click', function(e) {
+        let fx = new Firework(cw / 2, ch, e.clientX, e.clientY);
+        fireworks.push(fx);
+    });
+
+    setInterval(() => {
+        let x = random(cw / 4, (cw * 3) / 4);
+        let y = random(ch / 4, ch / 2);
+        fireworks.push(new Firework(cw / 2, ch, x, y));
+    }, 1000);
+
+    loop();
+    </script>
+</body>
+</html>
