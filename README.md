@@ -1,11 +1,8 @@
 # 👋 Hello world, I'm @trgchinhh
 ## About Me
-- 😄 I'm a beginner in programming.  
-- 🎓 I'm currently learning and building small projects to improve my skills.  
-- 🔭 My favorite field of research is **cryptocurrency**
-- 💡 I'm curious about how blockchain works and love experimenting with automation bots
-- ✨ I often code in **Python**, **C++**, **Java**, **...**  
-- 🚀 My goal is to become a full-stack developer and contribute to open-source projects in the future
+- 😄 I'm a beginner in programming field.  
+- 🚀 My goal is to become a full-stack developer in the future.
+- ☎️ If you would like to contact us, please [click here to contact me.](https://trgchinhh.github.io/information)
 
 <!--<p align="left">
   <img src="https://komarev.com/ghpvc/?username=trgchinhh&label=Views&color=blue&style=flat-square" width = 70 alt="trgchinhh" />
