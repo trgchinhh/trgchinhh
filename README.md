@@ -1,8 +1,8 @@
 # 👋 Hello world, I'm @trgchinhh
 ## About Me
-- 😄 I'm a beginner in programming field.  
-- 🚀 My goal is to become a full-stack developer in the future.
-- ☎️ If you would like to contact please [click here to contact me.](https://trgchinhh.github.io/information)
+- **😄 I'm a beginner in programming field.**
+- **🚀 My goal is to become a full-stack developer in the future.**
+- **☎️ If you would like to contact please [click here to contact me.](https://trgchinhh.github.io/information)**
 
 <!--<p align="left">
   <img src="https://komarev.com/ghpvc/?username=trgchinhh&label=Views&color=blue&style=flat-square" width = 70 alt="trgchinhh" />
