@@ -8,20 +8,23 @@
   <img src="https://komarev.com/ghpvc/?username=trgchinhh&label=Views&color=blue&style=flat-square" width = 70 alt="trgchinhh" />
 </p>-->
 
-<!--<h2 align = "left">With Ability</h2>
+<h2 align = "left">With Ability</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=c%2B%2B&logoColor=blue"/>
   <img src="https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Telegram Bot-333?style=for-the-badge&logo=telegram&logoColor=white"/>
-  <!--<img src="https://img.shields.io/badge/-APIs-333?style=for-the-badge&logo=linux"/>
+  <!--<img src="https://img.shields.io/badge/-APIs-333?style=for-the-badge&logo=linux"/> -->
   <img src="https://img.shields.io/badge/-CMD-333?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
-</p>-->
+</p>
 
 ## GitHub Stats
 
 ![visitors](https://count.getloli.com/get/@trgchinhh?theme=booru-lewd) 
+
+![Stats](https://github-readme-stats.vercel.app/api?username=trgchinhh&show_icons=true&theme=radical&hide=issues,contribs&cache_seconds=3600)
+<!--
 <div align="left">
 
 <table>
@@ -32,6 +35,7 @@
 
 </table>
 </div>
+-->
 
 <!--<p align="center">
   <a href="https://github.com/trgchinhh">
