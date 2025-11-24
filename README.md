@@ -1,8 +1,10 @@
 # 👋 Hello world, I'm @trgchinhh
 ## About Me
 - 🌟 I'm a beginner in programming field
+<!-- 
 - 🌱 I'm always coding day by day without getting tired
 - ✨ My goal is to become a full-stack developer in the future 
+-->
 - ☎️ If you would like to contact me [click here](https://trgchinhh.github.io/information)
 
 <!--<p align="left">
