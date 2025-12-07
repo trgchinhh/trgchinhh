@@ -1,6 +1,7 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> Hello world
 
-                    -@                 I'm [Truong Chinh](https://github.com/trgchinhh), an Information Technology student.
+<pre>
+                    -@                 I'm <a href="https://github.com/trgchinhh">Truong Chinh</a>, an Information Technology student.
                    .##@               
                   .####@               I like building lightweight terminal utilities
                   @#####@             
@@ -8,13 +9,15 @@
                .##@o@#####@           
               /############@           Learn to design tools using the TUI and CLI interface
              /##############@         
-            @######@**%######@         I’ve got a bunch of pinned projects, but my favorite is the [quanlysinhvien-cpp](https://github.com/trgchinhh/quanlysinhvien-cpp)
+            @######@**%######@         My favorite pinned project is <a href="https://github.com/trgchinhh/quanlysinhvien-cpp">quanlysinhvien-cpp</a>
            @######`     %#####o       
-          @######@       ######%       In addition, I also researched and created more than 10 multi-feature telegram bots
+          @######@       ######%       I have also built more than 10 multi-feature Telegram bots
         -@#######h       ######@.`    
-       /#####h**``       `**%@####@    If you are interested with telegram bots, [The source code](trgchinhh.github.io) is available here !
-      @H@*`                    `*%#@  
-      
+       /#####h**``       `**%@####@    If you're interested in Telegram bots, source code is available at: <a href="https://trgchinhh.github.io">trgchinhh.github.io</a>
+      @H@*`                    `*%#@    
+</pre>
+
+
 <!--<p align="left">
   <img src="https://komarev.com/ghpvc/?username=trgchinhh&label=Views&color=blue&style=flat-square" width = 70 alt="trgchinhh" />
 </p>-->
