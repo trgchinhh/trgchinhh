@@ -6,7 +6,7 @@ I like building lightweight terminal utilities
 
 Learning system programming and improving my C++ skills
 
-Learn to design tools using the TUI interface
+Learn to design tools using the TUI and CLI interface
 
 I’ve got a bunch of pinned projects, but my favorite is the [quanlysinhvien-cpp](https://github.com/trgchinhh/quanlysinhvien-cpp)
 
