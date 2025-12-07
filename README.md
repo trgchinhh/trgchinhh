@@ -25,7 +25,7 @@
 
 ![visitors](https://count.getloli.com/get/@trgchinhh?theme=booru-lewd) 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=trgchinhh&show_icons=true&theme=radical&hide=issues,contribs&cache_seconds=3600)
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=trgchinhh&show_icons=true&theme=radical&hide=issues,contribs&cache_seconds=3600) -->s
 <!-- &hide=issues,contribs -->
 <!--
 <div align="left">
