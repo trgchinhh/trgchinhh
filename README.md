@@ -1,9 +1,18 @@
-# 👋 Hello world, I'm @trgchinhh
-## About Me
-- 🌟 I'm a beginner in programming field
-- 🌱 I'm always coding day by day without getting tired
-- ✨ My goal is to become a fullstack dev in the future 
-- ☎️ If you would like to contact me [Click Here](https://trgchinhh.github.io/information)
+## <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> Hello world
+
+I'm [Truong Chinh](https://github.com/trgchinhh), an Information Technology student.
+
+I like building lightweight terminal utilities
+
+Learning system programming and improving my C++ skills
+
+Learn to design tools using the TUI interface
+
+I’ve got a bunch of pinned projects, but my favorite is the [quanlysinhvien-cpp](https://github.com/trgchinhh/quanlysinhvien-cpp)
+
+In addition, I also researched and created more than 10 multi-feature telegram bots
+
+If you are interested with telegram bots, [The source code](trgchinhh.github.io) is available here !
 
 <!--<p align="left">
   <img src="https://komarev.com/ghpvc/?username=trgchinhh&label=Views&color=blue&style=flat-square" width = 70 alt="trgchinhh" />
