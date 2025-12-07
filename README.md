@@ -1,20 +1,20 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> Hello world
 
 <pre>
-                    -@                 I'm <a href="https://github.com/trgchinhh">Truong Chinh</a>, an Information Technology student.
-                   .##@               
-                  .####@               I like building lightweight terminal utilities
-                  @#####@             
-                . *######@             Learning system programming and improving my C++ skills
-               .##@o@#####@           
-              /############@           Learn to design tools using the TUI and CLI interface
-             /##############@         
-            @######@**%######@         My favorite pinned project is <a href="https://github.com/trgchinhh/quanlysinhvien-cpp">quanlysinhvien-cpp</a>
-           @######`     %#####o       
-          @######@       ######%       I have also built more than 10 multi-feature Telegram bots
-        -@#######h       ######@.`    
-       /#####h**``       `**%@####@    If you're interested in Telegram bots, source code is available at: <a href="https://trgchinhh.github.io">trgchinhh.github.io</a>
-      @H@*`                    `*%#@    
+              -@                 I'm <a href="https://github.com/trgchinhh">Truong Chinh</a>, an Information Technology student.
+             .##@               
+            .####@               I like building lightweight terminal utilities
+            @#####@             
+          . *######@             Learning system programming and improving my C++ skills
+         .##@o@#####@           
+        /############@           Learn to design tools using the TUI and CLI interface
+       /##############@         
+      @######@**%######@         My favorite pinned project is <a href="https://github.com/trgchinhh/quanlysinhvien-cpp">quanlysinhvien-cpp</a>
+     @######`     %#####o       
+    @######@       ######%       I have also built more than 10 multi-feature Telegram bots
+   -@#######h       ######@.`    
+ /#####h**``       `**%@####@    If you're interested in Telegram bots, source code is available at: <a href="https://trgchinhh.github.io">trgchinhh.github.io</a>
+@H@*`                    `*%#@    
 </pre>
 
 
