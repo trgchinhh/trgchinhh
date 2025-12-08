@@ -1,6 +1,6 @@
 ## Hello World👋
 
-I'm [Truong Chinh](https://github.com/trgchinhh), an IT student.
+I'm [Truong Chinh](https://github.com/trgchinhh), an information technology student.
 
 I like building lightweight terminal utilities
 
