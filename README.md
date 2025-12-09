@@ -6,8 +6,6 @@ I like building lightweight terminal utilities
 
 Learning system programming and improving my C++ skills
 
-Learn to design tools using the TUI interface
-
 I’ve got a bunch of pinned projects, but my favorite is the [quanlysinhvien-cpp](https://github.com/trgchinhh/quanlysinhvien-cpp)
 
 In addition, I also researched and created more than 10 multi-feature telegram bots
