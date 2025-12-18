@@ -8,6 +8,8 @@ Learning system programming and improving my C++ skills
 
 I’ve got a bunch of pinned projects, but my favorite is the [quanlysinhvien-cpp](https://github.com/trgchinhh/quanlysinhvien-cpp)
 
+In addition, I also researched and created more than 10 multi-feature telegram bots
+
 If you are interested with telegram bots, [The source code here](https://github.com/trgchinhh/bottelegram-py) is available here !
 
 If you would like to contact me [Please click here](https://trgchinhh.github.io/information/) to contact 
