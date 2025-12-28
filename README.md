@@ -1,4 +1,4 @@
-## 👋 Hello World 
+## Hello World 
 
 - I'm [Truong Chinh](https://trgchinhh.github.io/information/), an information technology student<br>
 - I like building lightweight terminal utilities<br>
@@ -22,7 +22,7 @@
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=trgchinhh&show_icons=true&theme=radical&hide=issues,contribs&cache_seconds=3600) -->
 
 
-## 📂 My favorite repo
+## My favorite repo
 
 | Project | Description | Link |
 |---------|-------------|------|
@@ -31,7 +31,7 @@
 | quanlysinhvien-cpp | CLI/TUI student management system using C++ | [GitHub](https://github.com/trgchinhh/quanlysinhvien-cpp) |
 
 
-## ⚡ My Skills
+## My Skills
 - **Languages:** C++, Python, Java, JS
 - **Tools & Tech:** Git, Terminal, Web  
 - **Interests:** CLI/TUI tools, Telegram bots  
