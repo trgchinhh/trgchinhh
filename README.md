@@ -1,6 +1,6 @@
-# Hello World, I'm @trgchinhh
+## 👋 Hello World 
 
-- I'm an information technology student in VN<br>
+- I'm [Truong Chinh](https://trgchinhh.github.io/information/), an information technology student<br>
 - I like building lightweight terminal utilities<br>
 - This motivated me to become a back-end developer<br>
 - I’ve got a bunch of pinned projects, but my favorite is the [quanlysinhvien-cpp](https://github.com/trgchinhh/quanlysinhvien-cpp)<br>
