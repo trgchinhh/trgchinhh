@@ -1,5 +1,6 @@
 # 👋 Hello World 
 
+## 👨‍💻 About me
 - I'm [Truong Chinh](https://trgchinhh.github.io/information/), an information technology student<br>
 - I like building lightweight terminal utilities<br>
 - This motivated me to become a back-end developer<br>
