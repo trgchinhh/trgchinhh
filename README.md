@@ -1,4 +1,4 @@
-## 👋 Hello World 
+# 👋 Hello World 
 
 - I'm [Truong Chinh](https://trgchinhh.github.io/information/), an information technology student<br>
 - I like building lightweight terminal utilities<br>
