@@ -1,4 +1,4 @@
-## Hello World, I'm @trgchinhh
+# Hello World, I'm @trgchinhh
 
 - I'm an information technology student in VN<br>
 - I like building lightweight terminal utilities<br>
