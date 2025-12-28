@@ -29,11 +29,3 @@
 | library-C_healthy | Python library for calculating body metrics | [GitHub](https://github.com/trgchinhh/library-C_healthy) |
 | bottelegram-py | Multi-feature Telegram bots | [GitHub](https://github.com/trgchinhh/bottelegram-py) |
 | quanlysinhvien-cpp | CLI/TUI student management system using C++ | [GitHub](https://github.com/trgchinhh/quanlysinhvien-cpp) |
-
-
-## ⚡ My Skills
-- **Languages:** C++, Python, Java, JS
-- **Tools & Tech:** Git, Terminal, Web  
-- **Interests:** CLI/TUI tools, Telegram bots  
-
-
