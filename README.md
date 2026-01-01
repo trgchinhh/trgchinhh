@@ -22,7 +22,7 @@
 ![visitors](https://count.getloli.com/get/@trgchinhh?theme=booru-lewd) 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=trgchinhh&show_icons=true&theme=radical&hide=issues,contribs&cache_seconds=3600) -->
 
-
+<!--
 ## 📂 My favorite repo
 
 | Project | Description | Link |
@@ -30,3 +30,4 @@
 | library-C_healthy | Python library for calculating body metrics | [GitHub](https://github.com/trgchinhh/library-C_healthy) |
 | bottelegram-py | Multi-feature Telegram bots | [GitHub](https://github.com/trgchinhh/bottelegram-py) |
 | quanlysinhvien-cpp | CLI/TUI student management system using C++ | [GitHub](https://github.com/trgchinhh/quanlysinhvien-cpp) |
+-->
