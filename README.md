@@ -11,21 +11,21 @@
 
 - In addition, I also researched and created more than 10 multi-feature telegram bots<br>
 
-- If you are interested with telegram bots, [The source code here](https://github.com/trgchinhh/bottelegram-py) is available here !<br>
+- If you are interested with telegram bots, [The source code here](https://github.com/trgchinhh/bottelegram-py) is available here !<br><br>
 
 
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github_dark/0-profile-details.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github/0-profile-details.svg">
   <img alt="Profile details" src="https://github.com/trgchinhh">
-</picture>
+</picture> -->
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github_dark/1-repos-per-language.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github/1-repos-per-language.svg">
   <img alt="Repos per language" src="https://github.com/trgchinhh">
-</picture>
+</picture> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github_dark/2-most-commit-language.svg">
@@ -39,12 +39,17 @@
   <img alt="Stats" src="https://github.com/trgchinhh">
 </picture>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trgchinhh&theme=github_dark&utcOffset=+7">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trgchinhh&theme=github&utcOffset=+7">
   <img alt="Productive time" src="https://github.com/trgchinhh">
-</picture>
+</picture> -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github_dark/0-profile-details.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github/0-profile-details.svg">
+  <img alt="Profile details" src="https://github.com/trgchinhh">
+</picture>
 
 <!-- <h2 align = "left">With Ability</h2>
 <p align="left">
