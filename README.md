@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/dd0ef74f-7c56-410e-80db-a923c68b8649" /># 👋 Hello World 
+# 👋 Hello World 
 
 ## 👨‍💻 About me
 - I'm Truong Chinh, an information technology student<br>
