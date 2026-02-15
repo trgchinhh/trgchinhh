@@ -10,10 +10,10 @@ I'm **Chinh**, an information technology student, I enjoy building a clean, mode
 ---
 **Some stuff I built:**
 
-- [Casino game](https://github.com/trgchinhh/casinogame-cpp) -A collection of computer games with a simple and intuitive interface.
-- [Quanlysinhvien](https://github.com/trgchinhh/quanlysinhvien-cpp) -A student management program using linked lists.
+- [Casino Games](https://github.com/trgchinhh/casinogame-cpp) -A collection of computer games with a simple and intuitive interface.
+- [Quanlysinhvien-linklist](https://github.com/trgchinhh/quanlysinhvien-cpp) -A student management program using linked lists.
 - [Techchainbank](https://github.com/trgchinhh/techchainbank-cpp) - A demo trading system that stores transactions on a blockchain and validates blocks.
-- [Librayry C-healthy](https://github.com/trgchinhh/library-C_healthy) - A Python library for calculating health metrics and a guide to building Python libraries.
+- [Library C-healthy](https://github.com/trgchinhh/library-C_healthy) - A Python library for calculating health metrics and a guide to building Python libraries.
 - [My telegram bot](https://trgchinhh.github.io) - A collection of telegram bots built for automation, moderation, and productivity.
 
 ---
