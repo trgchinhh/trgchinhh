@@ -1,19 +1,23 @@
-# 👋 Hello World 
+### Hello world ! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>  
 
-## 👨‍💻 About me
-- I'm Truong Chinh, an information technology student<br>
+I'm [**Chinh**], an information technology student, I enjoy building a clean, modern and visually appealing terminal-based programs.
 
-- I like building lightweight terminal utilities<br>
+**These day, I'm focused on:**
+- C/C++, Python and Java
+- Building custom visual text-based user interface (TUI)
+- Creating lightweight, simple and convenient
 
-- This motivated me to become a back-end developer<br>
+---
+**Some stuff I built:**
 
-- I’ve got a bunch of pinned projects, but my favorite is the [casino-cpp](https://github.com/trgchinhh/casinogame-cpp)<br>
+- [Casino game](https://github.com/trgchinhh/casinogame-cpp) -A collection of computer games with a simple and intuitive interface.
+- [Quanlysinhvien](https://github.com/trgchinhh/quanlysinhvien-cpp) -A student management program using linked lists.
+- [Techchainbank](https://github.com/trgchinhh/techchainbank-cpp) - A demo trading system that stores transactions on a blockchain and validates blocks.
+- [Librayry C-healthy](https://github.com/trgchinhh/library-C_healthy) - A Python library for calculating health metrics and a guide to building Python libraries.
+- [My telegram bot](https://trgchinhh.github.io) - A collection of telegram bots built for automation, moderation, and productivity.
 
-- In addition, I also researched and created more than 10 multi-feature telegram bots<br>
-
-- If you are interested with telegram bots, [The source code here](https://github.com/trgchinhh/bottelegram-py) is available here !<br><br>
-
-
+---
+<br>
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github_dark/0-profile-details.svg">
@@ -27,11 +31,11 @@
   <img alt="Repos per language" src="https://github.com/trgchinhh">
 </picture> -->
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github_dark/2-most-commit-language.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github/2-most-commit-language.svg">
   <img alt="Most commit language" src="https://github.com/trgchinhh">
-</picture>
+</picture> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github_dark/3-stats.svg">
@@ -39,11 +43,11 @@
   <img alt="Stats" src="https://github.com/trgchinhh">
 </picture>
 
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trgchinhh&theme=github_dark&utcOffset=+7">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trgchinhh&theme=github&utcOffset=+7">
   <img alt="Productive time" src="https://github.com/trgchinhh">
-</picture> -->
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github_dark/0-profile-details.svg">
