@@ -1,6 +1,6 @@
 ### Hello world ! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>  
 
-I'm [**Chinh**], an information technology student, I enjoy building a clean, modern and visually appealing terminal-based programs.
+I'm **Chinh**, an information technology student, I enjoy building a clean, modern and visually appealing terminal-based programs.
 
 **These day, I'm focused on:**
 - C/C++, Python and Java
