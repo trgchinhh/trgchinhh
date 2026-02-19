@@ -10,7 +10,7 @@ I'm **Chinh**, an information technology student, I enjoy building a clean, mode
 **Fun fact:**
 - I like building projects from my own ideas 
 - I prefer hyprland arch linux to gnome ubuntu
-- **Hobbies:** badminton and code
+- **Hobbies:** badminton, gaming and coding 
 
 ---
 **Some stuff I built:**
