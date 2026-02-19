@@ -35,9 +35,7 @@ I'm **Chinh**, an information technology student, I enjoy building a clean, mode
 | Library C-healthy | A Python library for calculating health metrics and a guide to building Python libraries | [View](https://github.com/trgchinhh/library-C_healthy) |
 | My Telegram Bots | A collection of Telegram bots built for automation, moderation, and productivity | [Visit](https://trgchinhh.github.io) |
 
-
----
-<br>
+<!--<br>
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github_dark/0-profile-details.svg">
