@@ -25,11 +25,11 @@ I'm **Chinh**, an information technology student, I enjoy building a clean, mode
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Casino Games | A collection of computer games with a simple and intuitive interface. | [View](https://github.com/trgchinhh/casinogame-cpp) |
-| Quanlysinhvien-linklist | A student management program using linked lists. | [View](https://github.com/trgchinhh/quanlysinhvien-cpp) |
-| Techchainbank | A demo trading system that stores transactions on a blockchain and validates blocks. | [View](https://github.com/trgchinhh/techchainbank-cpp) |
-| Library C-healthy | A Python library for calculating health metrics and a guide to building Python libraries. | [View](https://github.com/trgchinhh/library-C_healthy) |
-| My Telegram Bots | A collection of Telegram bots built for automation, moderation, and productivity. | [Visit](https://trgchinhh.github.io) |
+| Casino Games | A collection of computer games with a simple and intuitive interface | [View](https://github.com/trgchinhh/casinogame-cpp) |
+| Quanlysinhvien-linklist | A student management program using linked lists | [View](https://github.com/trgchinhh/quanlysinhvien-cpp) |
+| Techchainbank | A demo trading system that stores transactions on a blockchain and validates blocks | [View](https://github.com/trgchinhh/techchainbank-cpp) |
+| Library C-healthy | A Python library for calculating health metrics and a guide to building Python libraries | [View](https://github.com/trgchinhh/library-C_healthy) |
+| My Telegram Bots | A collection of Telegram bots built for automation, moderation, and productivity | [Visit](https://trgchinhh.github.io) |
 
 
 ---
