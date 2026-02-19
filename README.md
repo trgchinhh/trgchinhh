@@ -3,18 +3,34 @@
 I'm **Chinh**, an information technology student, I enjoy building a clean, modern and visually appealing terminal-based programs.
 
 **These day, I'm focused on:**
-- C/C++, Python and Java
+- C/C++ and Python
 - Building custom visual text-based user interface (TUI)
 - Creating lightweight, simple and convenient
+  
+**Fun fact:**
+- I like building projects from my own ideas 
+- I prefer hyprland arch linux to gnome ubuntu
+- **Hobbies:** badminton and code
 
 ---
 **Some stuff I built:**
 
+<!--
 - [Casino Games](https://github.com/trgchinhh/casinogame-cpp) - A collection of computer games with a simple and intuitive interface.
 - [Quanlysinhvien-linklist](https://github.com/trgchinhh/quanlysinhvien-cpp) - A student management program using linked lists.
 - [Techchainbank](https://github.com/trgchinhh/techchainbank-cpp) - A demo trading system that stores transactions on a blockchain and validates blocks.
 - [Library C-healthy](https://github.com/trgchinhh/library-C_healthy) - A Python library for calculating health metrics and a guide to building Python libraries.
 - [My telegram bots](https://trgchinhh.github.io) - A collection of telegram bots built for automation, moderation, and productivity.
+-->
+
+| Project | Description | Link |
+|---------|-------------|------|
+| Casino Games | A collection of computer games with a simple and intuitive interface. | [View](https://github.com/trgchinhh/casinogame-cpp) |
+| Quanlysinhvien-linklist | A student management program using linked lists. | [View](https://github.com/trgchinhh/quanlysinhvien-cpp) |
+| Techchainbank | A demo trading system that stores transactions on a blockchain and validates blocks. | [View](https://github.com/trgchinhh/techchainbank-cpp) |
+| Library C-healthy | A Python library for calculating health metrics and a guide to building Python libraries. | [View](https://github.com/trgchinhh/library-C_healthy) |
+| My Telegram Bots | A collection of Telegram bots built for automation, moderation, and productivity. | [Visit](https://trgchinhh.github.io) |
+
 
 ---
 <br>
