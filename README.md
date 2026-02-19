@@ -13,7 +13,6 @@ I'm **Chinh**, an information technology student, I enjoy building a clean, mode
 - **Hobbies:** badminton, gaming and coding 
 
 ---
-**Some stuff I built:**
 
 <!--
 - [Casino Games](https://github.com/trgchinhh/casinogame-cpp) - A collection of computer games with a simple and intuitive interface.
@@ -22,6 +21,11 @@ I'm **Chinh**, an information technology student, I enjoy building a clean, mode
 - [Library C-healthy](https://github.com/trgchinhh/library-C_healthy) - A Python library for calculating health metrics and a guide to building Python libraries.
 - [My telegram bots](https://trgchinhh.github.io) - A collection of telegram bots built for automation, moderation, and productivity.
 -->
+
+![Metrics](https://github.com/trgchinhh/metrics/blob/master/github-metrics.svg)
+
+---
+**Some stuff I built:**
 
 | Project | Description | Link |
 |---------|-------------|------|
@@ -34,8 +38,6 @@ I'm **Chinh**, an information technology student, I enjoy building a clean, mode
 
 ---
 <br>
-
-![Metrics](https://github.com/trgchinhh/metrics/blob/master/github-metrics.svg)
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github_dark/0-profile-details.svg">
