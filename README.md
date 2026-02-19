@@ -19,7 +19,7 @@ I'm **Chinh**, an information technology student, I enjoy building a clean, mode
 ---
 <br>
 
-![Metrics](https://newyaroslav.github.io/trgchinhh/metrics.svg)
+![Metrics](https://github.com/trgchinhh/metrics/blob/master/github-metrics.svg)
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github_dark/0-profile-details.svg">
