@@ -58,7 +58,7 @@ I'm **Chinh**, an information technology student, I enjoy building a clean, mode
 </picture> -->
 
 
-
+<!---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github_dark/3-stats.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github/3-stats.svg">
@@ -76,7 +76,7 @@ I'm **Chinh**, an information technology student, I enjoy building a clean, mode
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github/0-profile-details.svg">
   <img alt="Profile details" src="https://github.com/trgchinhh">
 </picture>
-
+-->
 
 <!--
 ## 📂 My favorite repo
