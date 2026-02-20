@@ -29,9 +29,9 @@ I'm **Chinh**, an information technology student, I enjoy building a clean, mode
 
 | Project | Description | Link |
 |---------|-------------|------|
-| Casino Games | A collection of computer games with a simple and intuitive interface | [View](https://github.com/trgchinhh/casinogame-cpp) |
+| Casino games | A collection of computer games with a simple and intuitive interface | [View](https://github.com/trgchinhh/casinogame-cpp) |
 | Library C-healthy | A Python library for calculating health metrics and a guide to building Python libraries | [View](https://github.com/trgchinhh/library-C_healthy) |
-| My Telegram Bots | A collection of Telegram bots built for automation, moderation, and productivity | [Visit](https://trgchinhh.github.io) |
+| Telegram bots | A collection of Telegram bots built for automation, moderation, and productivity | [Visit](https://trgchinhh.github.io) |
 
 <!--<br>
 
