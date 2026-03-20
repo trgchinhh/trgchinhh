@@ -25,13 +25,9 @@ I'm **Chinh**, an information technology student, I enjoy building a clean, mode
 ![Metrics](https://github.com/trgchinhh/metrics/blob/master/github-metrics.svg)
 
 ---
-**Some stuff I built:**
 
-| Project | Description | Link |
-|---------|-------------|------|
-| Casino games | A collection of computer games with a simple and intuitive interface | [View](https://github.com/trgchinhh/casinogame-cpp) |
-| Library C-healthy | A Python library for calculating health metrics and a guide to building Python libraries | [View](https://github.com/trgchinhh/library-C_healthy) |
-| Telegram bots | A collection of Telegram bots built for automation, moderation, and productivity | [Visit](https://trgchinhh.github.io) |
+**Project I like:**
+- [`Casionogame-cpp`](https://github.com/trgchinhh/casinogame-cpp) — A collection of computer games with a simple and intuitive interface
 
 <!--<br>
 
