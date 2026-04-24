@@ -27,9 +27,10 @@ I'm **Chinh**, an information technology student, I enjoy building a clean, mode
 ---
 
 **Project I like:**
-- [`Casionogame`](https://github.com/trgchinhh/casinogame-cpp) — A collection of computer games with a simple and intuitive interface
-- [`C-healthy`](https://github.com/trgchinhh/library-C_healthy) — A custom-built library for calculating body mass index in Python
+- [`Casionogame Cpp`](https://github.com/trgchinhh/casinogame-cpp) — A collection of computer games with a simple and intuitive interface
+- [`Library C-healthy`](https://github.com/trgchinhh/library-C_healthy) — A custom-built library for calculating body mass index in Python
 - [`Hashlib Cpp`](https://github.com/trgchinhh/hashlib-cpp) — The library is built from OpenSSL to achieve syntax minification similar to Python's hashlib
+- [`Free bot telegram`](https://github.com/trgchinhh/hashlib-cpp) — Share telegram bot with flexible user and feature integrations through API integration
 
 <!--<br>
 
