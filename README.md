@@ -1,16 +1,12 @@
-# Hi guy ! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>  
+## Hello world !   
 
 I'm **Chinh**, an information technology student, I enjoy building a clean, modern and visually appealing terminal-based programs.
 
 **These day, I'm focused on:**
-- C/C++ and Python
+- C++, Python, C#, Java, JavaScript, BatchScript
 - Building custom visual text-based user interface (TUI)
+- Build the simplest program possible
 - Creating lightweight, simple and convenient
-  
-**Fun fact:**
-- I like building projects from my own ideas 
-- I prefer hyprland arch linux to gnome ubuntu
-- **Hobbies:** badminton, gaming and coding 
 
 ---
 
