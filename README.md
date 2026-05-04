@@ -1,4 +1,4 @@
-## Hello world !   
+# Truong Chinh
 
 I'm **Chinh**, an information technology student, I enjoy building a clean, modern and visually appealing terminal-based programs.
 
