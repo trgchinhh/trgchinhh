@@ -3,7 +3,7 @@
 I'm **Chinh**, an information technology student, I enjoy building a clean, modern and visually appealing terminal-based programs.
 
 **These day, I'm focused on**
-- Backend development with C++, Python, C#, JavaScript
+- Backend development with C++, Python, JavaScript
 - Building text-based user interfaces (TUI) on terminal
 - Focus on simple, lightweight, and efficient programs
 - Creating lightweight, simple and convenient
