@@ -1,4 +1,4 @@
-# Truong Chinh
+## Truong Chinh
 
 I'm **Chinh**, an information technology student, I enjoy building a clean, modern and visually appealing terminal-based programs.
 
@@ -23,9 +23,13 @@ I'm **Chinh**, an information technology student, I enjoy building a clean, mode
 
 ![Metrics](https://github.com/trgchinhh/metrics/blob/master/github-metrics.svg)
 
-<!--
+
 ---
 
+**My hobby project**
+- [`Casionogame Cpp`](https://github.com/trgchinhh/casinogame-cpp) — A collection of computer games with a simple and intuitive interface
+
+<!--
 **Project I like:**
 - [`Casionogame Cpp`](https://github.com/trgchinhh/casinogame-cpp) — A collection of computer games with a simple and intuitive interface
 - [`Library C-healthy`](https://github.com/trgchinhh/library-C_healthy) — A custom-built library for calculating body mass index in Python
