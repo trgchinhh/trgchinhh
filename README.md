@@ -1,6 +1,6 @@
 ## Truong Chinh
 
-I'm **Chinh**, an information technology student, I enjoy building a clean, modern and visually appealing terminal-based programs.
+I'm **Chinh**, an information technology student, I enjoy building a clean, modern and visually appealing terminal-based programs
 
 **These day, I'm focused on**
 - Backend development with C++, Python, JavaScript
