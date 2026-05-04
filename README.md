@@ -2,11 +2,14 @@
 
 I'm **Chinh**, an information technology student, I enjoy building a clean, modern and visually appealing terminal-based programs.
 
-**These day, I'm focused on:**
-- C++, Python, C#, Java, JavaScript, BatchScript
-- Building custom visual text-based user interface (TUI)
-- Build the simplest program possible
+**These day, I'm focused on**
+- Backend development with C++, Python, C#, JavaScript
+- Building text-based user interfaces (TUI) on terminal
+- Focus on simple, lightweight, and efficient programs
 - Creating lightweight, simple and convenient
+
+**Fact about me**
+- Passionate about learning and exploring new technologies to turn ideas into real products
 
 ---
 
@@ -20,6 +23,7 @@ I'm **Chinh**, an information technology student, I enjoy building a clean, mode
 
 ![Metrics](https://github.com/trgchinhh/metrics/blob/master/github-metrics.svg)
 
+<!--
 ---
 
 **Project I like:**
@@ -27,47 +31,6 @@ I'm **Chinh**, an information technology student, I enjoy building a clean, mode
 - [`Library C-healthy`](https://github.com/trgchinhh/library-C_healthy) — A custom-built library for calculating body mass index in Python
 - [`Hashlib Cpp`](https://github.com/trgchinhh/hashlib-cpp) — The library is built from OpenSSL to achieve syntax minification similar to Python's hashlib
 - [`Free bot telegram`](https://github.com/trgchinhh/hashlib-cpp) — Share telegram bot with flexible user and feature integrations through API integration
-
-<!--<br>
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github_dark/0-profile-details.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github/0-profile-details.svg">
-  <img alt="Profile details" src="https://github.com/trgchinhh">
-</picture> -->
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github_dark/1-repos-per-language.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github/1-repos-per-language.svg">
-  <img alt="Repos per language" src="https://github.com/trgchinhh">
-</picture> -->
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github_dark/2-most-commit-language.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github/2-most-commit-language.svg">
-  <img alt="Most commit language" src="https://github.com/trgchinhh">
-</picture> -->
-
-
-<!---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github_dark/3-stats.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github/3-stats.svg">
-  <img alt="Stats" src="https://github.com/trgchinhh">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trgchinhh&theme=github_dark&utcOffset=+7">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trgchinhh&theme=github&utcOffset=+7">
-  <img alt="Productive time" src="https://github.com/trgchinhh">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github_dark/0-profile-details.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github/0-profile-details.svg">
-  <img alt="Profile details" src="https://github.com/trgchinhh">
-</picture>
--->
 
 <!--
 ## 📂 My favorite repo
