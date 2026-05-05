@@ -20,7 +20,7 @@ I'm **Chinh**, an information technology student, I enjoy building a clean, mode
 - [My telegram bots](https://trgchinhh.github.io) - A collection of telegram bots built for automation, moderation, and productivity.
 -->
 
-![Metrics](https://github.com/trgchinhh/metrics/blob/master/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/trgchinhh/metrics/master/github-metrics.svg)
 
 
 ---
