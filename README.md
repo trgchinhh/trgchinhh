@@ -6,7 +6,6 @@ I'm **Chinh**, an information technology student, I enjoy building a clean, mode
 - Backend development with C++, Python, JavaScript
 - Building text-based user interfaces (TUI) on terminal
 - Focus on simple, lightweight, and efficient programs
-- Creating lightweight, simple and convenient
 
 **Fact about me**
 - Passionate about learning and exploring new technologies to turn ideas into real products
