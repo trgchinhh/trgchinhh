@@ -1,68 +1,23 @@
 # Truong Chinh
 
-I'm **Chinh**, an information technology student, I enjoy building a clean, modern and visually appealing terminal-based programs
+👋 I'm **Chinh**, an information technology student, I enjoy building a clean, modern and visually appealing terminal-based programs. My ultimate goal is to become a skilled Software Engineer.
 
-**These day, I'm focused on**
-- Backend development with C++, Python, JavaScript
-- Building text-based user interfaces (TUI) on terminal
-- Focus on simple, lightweight, and efficient programs
+## About me 
+- 🌱 I'm currently learning various programming languages and technologies.
+- 🖥️ My favourite language include C++, Python and JavaScript.
+- 💡 I am passionate about transforming my ideas into practical and meaningful projects.
 
-**Fact about me**
-- Passionate about learning and exploring new technologies to turn ideas into real products
-
----
-
-<!--
-- [Casino Games](https://github.com/trgchinhh/casinogame-cpp) - A collection of computer games with a simple and intuitive interface.
-- [Quanlysinhvien-linklist](https://github.com/trgchinhh/quanlysinhvien-cpp) - A student management program using linked lists.
-- [Techchainbank](https://github.com/trgchinhh/techchainbank-cpp) - A demo trading system that stores transactions on a blockchain and validates blocks.
-- [Library C-healthy](https://github.com/trgchinhh/library-C_healthy) - A Python library for calculating health metrics and a guide to building Python libraries.
-- [My telegram bots](https://trgchinhh.github.io) - A collection of telegram bots built for automation, moderation, and productivity.
--->
-
-![visitors](https://count.getloli.com/get/@trgchinhh?theme=booru-lewd) 
+## Fact
+- 🚀 Passionate about learning and exploring new technologies to turn ideas into real products.
 
 ![Metrics](https://raw.githubusercontent.com/trgchinhh/metrics/master/github-metrics.svg)
 
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github_dark/3-stats.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github/3-stats.svg">
-  <img alt="Stats" src="https://github.com/trgchinhh">
-</picture>
+## Projects
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trgchinhh&theme=github_dark&utcOffset=+7">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trgchinhh&theme=github&utcOffset=+7">
-  <img alt="Productive time" src="https://github.com/trgchinhh">
-</picture>
+Here are some of my noteworthy projects:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github_dark/0-profile-details.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trgchinhh/trgchinhh/master/profile-summary-card-output/github/0-profile-details.svg">
-  <img alt="Profile details" src="https://github.com/trgchinhh">
-</picture>
--->
-
-<!--
-**My hobby project**
-- [`Casionogame Cpp`](https://github.com/trgchinhh/casinogame-cpp) — A collection of computer games with a simple and intuitive interface
--->
-
-<!--
-**Project I like:**
-- [`Casionogame Cpp`](https://github.com/trgchinhh/casinogame-cpp) — A collection of computer games with a simple and intuitive interface
-- [`Library C-healthy`](https://github.com/trgchinhh/library-C_healthy) — A custom-built library for calculating body mass index in Python
-- [`Hashlib Cpp`](https://github.com/trgchinhh/hashlib-cpp) — The library is built from OpenSSL to achieve syntax minification similar to Python's hashlib
-- [`Free bot telegram`](https://github.com/trgchinhh/hashlib-cpp) — Share telegram bot with flexible user and feature integrations through API integration
--->
-
-<!--
-## 📂 My favorite repo
-
-| Project | Description | Link |
-|---------|-------------|------|
-| library-C_healthy | Python library for calculating body metrics | [GitHub](https://github.com/trgchinhh/library-C_healthy) |
-| bottelegram-py | Multi-feature Telegram bots | [GitHub](https://github.com/trgchinhh/bottelegram-py) |
-| quanlysinhvien-cpp | CLI/TUI student management system using C++ | [GitHub](https://github.com/trgchinhh/quanlysinhvien-cpp) |
--->
+| Project | Description |
+|---------|-------------|
+| [Library C-healthy](https://github.com/trgchinhh/library-C_healthy) | A Python library for calculating health metrics and a guide to building Python libraries. |
+| [Casino Games](https://github.com/trgchinhh/casinogame-cpp) | A collection of computer games with a simple and intuitive interface. |
+| [My Telegram Bots](https://trgchinhh.github.io) | A collection of Telegram bots built for automation, moderation, and productivity. |
