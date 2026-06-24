@@ -3,12 +3,12 @@
 👋 I'm **Chinh**, an information technology student, I enjoy building a clean, modern and visually appealing terminal-based programs. My ultimate goal is to become a skilled Software Engineer.
 
 ## About me 
-- 🌱 I'm currently learning various programming languages and technologies.
-- 🖥️ My favourite language include C++, Python and JavaScript.
-- 💡 I am passionate about transforming my ideas into practical and meaningful projects.
+- I'm currently learning various programming languages and technologies.
+- My favourite language include C++, Python and JavaScript.
+- I am passionate about transforming my ideas into practical and meaningful projects.
 
 ## Fact
-- 🚀 Passionate about learning and exploring new technologies to turn ideas into real products.
+- Passionate about learning and exploring new technologies to turn ideas into real products.
 
 ---
 
