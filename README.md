@@ -10,7 +10,11 @@
 ## Fact
 - 🚀 Passionate about learning and exploring new technologies to turn ideas into real products.
 
+---
+
 ![Metrics](https://raw.githubusercontent.com/trgchinhh/metrics/master/github-metrics.svg)
+
+---
 
 ## Projects
 
