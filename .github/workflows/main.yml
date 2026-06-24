@@ -16,4 +16,4 @@ jobs:
           USERNAME: trgchinhh
           UTC_OFFSET: 7
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN2 }}
