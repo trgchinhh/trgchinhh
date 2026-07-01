@@ -23,7 +23,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN3 }}
           user: trgchinhh
           output_action: none
           config_timezone: Asia/Ho_Chi_Minh
