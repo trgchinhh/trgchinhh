@@ -1,19 +1,49 @@
-name: GitHub-Profile-Summary-Cards
+name: Metrics
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"   # chạy mỗi 6 giờ
   workflow_dispatch:
+  push:
+    branches: ["main"]
 
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
-    name: generate
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    permissions:
+      pages: write
+      id-token: write
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: lowlighter/metrics@latest
         with:
-          USERNAME: trgchinhh
-          UTC_OFFSET: 7
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN2 }}
+          filename: metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN2 }}
+          user: trgchinhh
+          output_action: none
+          config_timezone: Asia/Ho_Chi_Minh
+
+          base: header, repositories, metadata
+
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_sections: base
+          plugin_lines_delay: 30
+
+          plugin_languages: yes
+          plugin_languages_details: percentage, bytes-size
+
+          plugin_followup: yes
+          plugin_followup_sections: user
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: /metrics_renders
+
+      - uses: actions/deploy-pages@v4
+        id: deployment
