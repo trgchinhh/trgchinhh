@@ -1,16 +1,29 @@
-## Hi there 👋
+# Truong Chinh
 
-<!--
-**trgchinhh/trgchinhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 I'm **Chinh**, an information technology student, I enjoy building a clean, modern and visually appealing terminal-based programs. My ultimate goal is to become a skilled Software Engineer.
 
-Here are some ideas to get you started:
+## About me 
+- I'm currently learning various programming languages and technologies.
+- My favourite language include C++, Python and JavaScript.
+- I am passionate about transforming my ideas into practical and meaningful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fact
+- Passionate about learning and exploring new technologies to turn ideas into real products.
+
+---
+
+<!--![Metrics](https://raw.githubusercontent.com/trgchinhh/metrics/master/github-metrics.svg)-->
+
+---
+
+## Projects
+
+Here are some of my noteworthy projects:
+
+| Project | Description |
+|---------|-------------|
+| [Library C-healthy](https://github.com/trgchinhh/library-C_healthy) | A Python library for calculating health metrics and a guide to building Python libraries. |
+| [Casino Games](https://github.com/trgchinhh/casinogame-cpp) | A collection of computer games with a simple and intuitive interface. |
+| [Blockchain](https://github.com/trgchinhh/blockchain-cpp) | Simulating the core operational mechanisms of a blockchain using C++. |
+| [Elevator](https://github.com/trgchinhh/elevator-cpp) | An interactive elevator system simulator implemented in modern C++. |
+| [My Telegram Bots](https://trgchinhh.github.io) | A collection of Telegram bots built for automation, moderation, and productivity. |
