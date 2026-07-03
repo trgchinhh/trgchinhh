@@ -12,7 +12,7 @@
 
 ---
 
-![Metrics](https://raw.githubusercontent.com/trgchinhh/metrics/master/github-metrics.svg)
+![Metrics](https://github.com/trgchinhh/trgchinhh/blob/main/metrics.svg)
 
 ---
 
