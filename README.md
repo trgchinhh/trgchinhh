@@ -1,6 +1,6 @@
-# Truong Chinh
+<!--# Truong Chinh-->
 
-👋 I'm **Chinh**, an information technology student, I enjoy building a clean, modern and visually appealing terminal-based programs. My ultimate goal is to become a skilled Software Engineer.
+I'm an information technology student, I enjoy building a clean, modern appealing terminal based programs and enjoy contributing to open-source projects. My ultimate goal is to become a skilled Software Engineer.
 
 <!--
 ## About me 
