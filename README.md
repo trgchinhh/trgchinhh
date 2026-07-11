@@ -1,10 +1,11 @@
-<!--# Truong Chinh-->
+# Truong Chinh
 
 I'm an information technology student, I enjoy building a clean, modern appealing terminal based programs and enjoy contributing to open source projects. My ultimate goal is to become a skilled Software Engineer.
 
-If you want to learn how to develop a library for Python, please [click here to learn more](https://github.com/trgchinhh/C_healthy) or the library's official website [C-healthy 3.0.0](https://pypi.org/project/C-healthy/0.3.0/).
-
 <!--
+If you want to learn how to develop a library for Python, please [click here to learn more](https://github.com/trgchinhh/C_healthy) or the library's official website [C-healthy 3.0.0](https://pypi.org/project/C-healthy/0.3.0/).
+-->
+
 ## About me 
 - I'm currently learning various programming languages and technologies.
 - My favourite language include C++, Python and JavaScript.
