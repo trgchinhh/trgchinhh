@@ -1,4 +1,4 @@
-# Truong Chinh
+## Truong Chinh
 
 I'm an information technology student, I enjoy building a clean, modern appealing terminal based programs and enjoy contributing to open source projects. My ultimate goal is to become a skilled Software Engineer.
 
