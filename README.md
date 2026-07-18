@@ -2,7 +2,7 @@
 
 I'm an information technology student, I enjoy building a clean, modern appealing terminal based programs and enjoy contributing to open source projects. My ultimate goal is to become a skilled Software Engineer.
 
-I created a Python library for calculating body metrics, please [click here to learn more](https://github.com/trgchinhh/C_healthy) or the library's official website [C-healthy 3.0.0](https://pypi.org/project/C-healthy/0.3.0/).
+I created a Python library for calculating body metrics, please [click here to learn more](https://github.com/trgchinhh/C_healthy) or the library's official website [C-healthy 3.0.0](https://pypi.org/project/C-healthy/0.3.0/)
 
 <!--
 ---
