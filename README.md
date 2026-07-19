@@ -7,7 +7,7 @@ I created a Python library for calculating body metrics, please [click here to l
 
 **Technology Student · Open Source · C++ & Python Developer**
 
-I enjoy designing and building open-source software, especially projects that improve the C++ and Python development experience.
+I enjoy designing and building open source software, especially projects that improve the C++ and Python development experience.
 
 I mainly work on:
 
