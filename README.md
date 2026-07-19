@@ -11,12 +11,12 @@ I enjoy designing and building open source software, especially projects that im
 
 I mainly work on:
 
-* modern terminal applications (CLI / TUI)
-* reusable C++ and Python libraries
-* developer tools and utilities
+* Modern terminal applications (CLI / TUI)
+* Reusable C++ and Python libraries
+* Developer tools and utilities
 * Telegram and Discord bots
-* cryptography and blockchain demonstrations
-* console games and desktop applications
+* Cryptography and blockchain demonstrations
+* Console games and desktop applications
 
 ### Current focus
 
