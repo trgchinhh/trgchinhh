@@ -1,9 +1,59 @@
-## Truong Chinh
-
+# Truong Chinh
+<!--
 I'm an information technology student, I enjoy building a clean, modern appealing terminal based programs and enjoy contributing to open source projects. My ultimate goal is to become a skilled Software Engineer.
 
 I created a Python library for calculating body metrics, please [click here to learn more](https://github.com/trgchinhh/C_healthy) or the library's official website [C-healthy 3.0.0](https://pypi.org/project/C-healthy/0.3.0/)
+-->
 
+**Computer Science Student · Open Source · C++ & Python Developer**
+
+I enjoy designing and building open-source software, especially projects that improve the C++ and Python development experience.
+
+I mainly work on:
+
+* modern terminal applications (CLI / TUI)
+* reusable C++ and Python libraries
+* developer tools and utilities
+* Telegram and Discord bots
+* cryptography and blockchain demonstrations
+* console games and desktop applications
+
+### Current focus
+
+* Building lightweight C++ libraries with Python-like syntax
+* Developing modern terminal applications and TUI interfaces
+* Creating open-source tools for developers
+* Learning modern C++ and software architecture
+
+💻 **Tech stack**
+
+* **C / C++**
+* **Python**
+* **C# / WinForms**
+* **Lua**
+* **Batch Script**
+* **Git / Linux**
+
+🛠 **Additional experience**
+
+* **Telegram Bot API** — automation, moderation, entertainment bots
+* **Discord Bot** — bot development and API integration
+* **Terminal UI** — colorful CLI applications and interactive console programs
+* **Cryptography** — implementing RSA, AES, SHA-256 and blockchain demonstrations in C++
+* **Python Tools** — automation scripts, utility tools, APIs and desktop utilities
+* **Game Development** — terminal games written in C++ and Python
+* **Git & GitHub** — open-source projects, documentation and version control
+
+🎯 **Interests**
+
+* Open Source
+* Modern C++
+* Terminal UI (CLI / TUI)
+* Software Architecture
+* Cryptography
+* Developer Tools
+* Python Libraries
+* Linux 
 
 ---
 
@@ -15,6 +65,7 @@ I created a Python library for calculating body metrics, please [click here to l
 
 Here are some of my noteworthy projects:
 
+<!--
 | Project | Description |
 |---------|-------------|
 | [Library C-healthy](https://github.com/trgchinhh/library-C_healthy) | A Python library for calculating health metrics and a guide to building Python libraries. |
@@ -24,5 +75,14 @@ Here are some of my noteworthy projects:
 | [Blockchain](https://github.com/trgchinhh/blockchain-cpp) | Simulating the core operational mechanisms of a blockchain using C++. |
 | [Elevator](https://github.com/trgchinhh/elevator-cpp) | An interactive elevator system simulator implemented in modern C++. |
 | [My Telegram Bots](https://trgchinhh.github.io) | A collection of Telegram bots built for automation, moderation, and productivity. |
+-->
 
+* [`Library C-healthy`](https://github.com/trgchinhh/library-C_healthy) — A Python library for calculating health metrics, along with a complete guide to building and publishing Python libraries.
+* [`Clibrary`](https://github.com/trgchinhh/Clibrary-hpp) — A collection of modern C++ utility libraries that provide concise, Python-like syntax while remaining lightweight and header-only.
+* [`Caro Game`](https://github.com/trgchinhh/carogame-cpp) — A colorful console-based Gomoku (Caro) game written in modern C++.
+* [`Casino Games`](https://github.com/trgchinhh/casinogame-cpp) — A collection of classic console casino games with a simple and interactive interface.
+* [`Blockchain`](https://github.com/trgchinhh/blockchain-cpp) — A C++ blockchain simulation featuring SHA-256 hashing, RSA digital signatures, and Proof of Work (PoW).
+* [`Elevator`](https://github.com/trgchinhh/elevator-cpp) — An interactive elevator system simulator implemented in modern C++.
+* [`My Telegram Bots`](https://trgchinhh.github.io) — A collection of Telegram bots for automation, moderation, entertainment, and productivity.
+* [`Bodyindex-GUI`](https://github.com/trgchinhh/Bodyindex-GUI) - A body index calculator program built using WinForms with a basic graphical user interface.
 
