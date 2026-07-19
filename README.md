@@ -28,11 +28,9 @@ I mainly work on:
 💻 **Tech stack**
 
 * **C / C++**
-* **Python**
+* **Python / Lua / JS**
 * **C# / WinForms**
-* **Lua**
-* **Batch Script**
-* **Git / Linux**
+* **Git / Linux / Batch Script**
 
 🛠 **Additional experience**
 
