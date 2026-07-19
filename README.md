@@ -53,7 +53,7 @@ I mainly work on:
 * Cryptography
 * Developer Tools
 * Python Libraries
-* Linux 
+* Linux Development
 
 ---
 
