@@ -5,7 +5,7 @@ I'm an information technology student, I enjoy building a clean, modern appealin
 I created a Python library for calculating body metrics, please [click here to learn more](https://github.com/trgchinhh/C_healthy) or the library's official website [C-healthy 3.0.0](https://pypi.org/project/C-healthy/0.3.0/)
 -->
 
-**Computer Science Student · Open Source · C++ & Python Developer**
+**Technology Student · Open Source · C++ & Python Developer**
 
 I enjoy designing and building open-source software, especially projects that improve the C++ and Python development experience.
 
