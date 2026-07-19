@@ -79,11 +79,10 @@ Here are some of my noteworthy projects:
 
 * [`Library C-healthy`](https://github.com/trgchinhh/library-C_healthy) — A Python library for calculating health metrics, along with a complete guide to building and publishing Python libraries.
 * [`Clibrary`](https://github.com/trgchinhh/Clibrary-hpp) — A collection of modern C++ utility libraries that provide concise, Python-like syntax while remaining lightweight and header-only.
-* [`Caro Game`](https://github.com/trgchinhh/carogame-cpp) — A colorful console-based Gomoku (Caro) game written in modern C++.
 * [`Casino Games`](https://github.com/trgchinhh/casinogame-cpp) — A collection of classic console casino games with a simple and interactive interface.
 * [`Blockchain`](https://github.com/trgchinhh/blockchain-cpp) — A C++ blockchain simulation featuring SHA-256 hashing, RSA digital signatures, and Proof of Work (PoW).
 * [`Elevator`](https://github.com/trgchinhh/elevator-cpp) — An interactive elevator system simulator implemented in modern C++.
 * [`My Telegram Bots`](https://trgchinhh.github.io) — A collection of Telegram bots for automation, moderation, entertainment, and productivity.
 * [`Bodyindex-GUI`](https://github.com/trgchinhh/Bodyindex-GUI) - A body index calculator program built using WinForms with a basic graphical user interface.
-* [`Telegram Otp`](https://github.com/trgchinhh/telegram-otp-demo) - A web demo for two-step authentication using OTP sent via Telegram.
+* [`Telegram Otp Demo`](https://github.com/trgchinhh/telegram-otp-demo) - A web demo for two-step authentication using OTP sent via Telegram.
 
