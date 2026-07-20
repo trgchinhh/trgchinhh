@@ -76,7 +76,19 @@ Here are some of my noteworthy projects:
 | [My Telegram Bots](https://trgchinhh.github.io) | A collection of Telegram bots built for automation, moderation, and productivity. |
 -->
 
+### C++/Python libraries
+
 * [`Library C-healthy`](https://github.com/trgchinhh/library-C_healthy) — A Python library for calculating health metrics, along with a complete guide to building and publishing Python libraries.
 * [`Clibrary`](https://github.com/trgchinhh/Clibrary-hpp) — A collection of modern C++ utility libraries that provide concise, Python-like syntax while remaining lightweight and header-only.
-* [`Casino Games`](https://github.com/trgchinhh/casinogame-cpp) — A collection of classic console casino games with a simple and interactive interface.
+
+### Blockchain demo
+
+* [`Blockchain`](https://github.com/trgchinhh/blockchain-cpp) — A C++ blockchain simulation featuring SHA-256 hashing, RSA digital signatures, and Proof of Work (PoW).
+
+### Telegram bots and automation
 * [`My Telegram Bots`](https://trgchinhh.github.io) — A collection of Telegram bots for automation, moderation, entertainment, and productivity.
+* [`Telegram Otp Demo`](https://github.com/trgchinhh/telegram-otp-demo) - A web demo for two-step authentication using OTP sent via Telegram.-->
+
+### Hobby projects
+
+* [`Casino Games`](https://github.com/trgchinhh/casinogame-cpp) — A collection of classic console casino games with a simple and interactive interface.
