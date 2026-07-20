@@ -83,5 +83,5 @@ Here are some of my noteworthy projects:
 * [`Elevator`](https://github.com/trgchinhh/elevator-cpp) — An interactive elevator system simulator implemented in modern C++.
 * [`My Telegram Bots`](https://trgchinhh.github.io) — A collection of Telegram bots for automation, moderation, entertainment, and productivity.
 * [`Bodyindex-GUI`](https://github.com/trgchinhh/Bodyindex-GUI) - A body index calculator program built using WinForms with a basic graphical user interface.
-<!--* [`Telegram Otp Demo`](https://github.com/trgchinhh/telegram-otp-demo) - A web demo for two-step authentication using OTP sent via Telegram.-->
+* [`Telegram Bot Otp`](https://github.com/trgchinhh/telegrambot-otp) - A web demo for two-step authentication using OTP sent via Telegram.-->
 
