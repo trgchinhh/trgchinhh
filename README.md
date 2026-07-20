@@ -82,4 +82,4 @@ Here are some of my noteworthy projects:
 * [`Blockchain`](https://github.com/trgchinhh/blockchain-cpp) — A C++ blockchain simulation featuring SHA-256 hashing, RSA digital signatures, and Proof of Work (PoW).
 * [`My Telegram Bots`](https://trgchinhh.github.io) — A collection of Telegram bots for automation, moderation, entertainment, and productivity.
 * [`Telegram Otp Demo`](https://github.com/trgchinhh/telegram-otp-demo) — A web demo for two-step authentication using OTP sent via Telegram.
-* * [`Bodyindex-GUI`](https://github.com/trgchinhh/Bodyindex-GUI) - A body index calculator program built using WinForms with a basic graphical user interface.
+* [`Bodyindex-GUI`](https://github.com/trgchinhh/Bodyindex-GUI) - A body index calculator program built using WinForms with a basic graphical user interface.
