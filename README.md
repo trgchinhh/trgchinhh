@@ -87,7 +87,7 @@ Here are some of my noteworthy projects:
 
 ### Telegram bots and automation
 * [`My Telegram Bots`](https://trgchinhh.github.io) — A collection of Telegram bots for automation, moderation, entertainment, and productivity.
-* [`Telegram Otp Demo`](https://github.com/trgchinhh/telegram-otp-demo) - A web demo for two-step authentication using OTP sent via Telegram.-->
+* [`Telegram Otp Demo`](https://github.com/trgchinhh/telegram-otp-demo) — A web demo for two-step authentication using OTP sent via Telegram.
 
 ### Hobby projects
 
