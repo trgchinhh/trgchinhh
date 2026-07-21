@@ -42,7 +42,6 @@ I mainly work on:
 * **Game Development** — terminal games written in C++ and Python
 * **Git & GitHub** — open-source projects, documentation and version control
 
-<!--
 🎯 **Interests**
 
 * Open Source
@@ -53,7 +52,7 @@ I mainly work on:
 * Developer Tools
 * Python Libraries
 * Linux Development
--->
+
 ---
 
 ![Metrics](https://github.com/trgchinhh/trgchinhh/blob/main/metrics.svg)
