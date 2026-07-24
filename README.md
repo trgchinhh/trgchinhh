@@ -12,8 +12,6 @@ I am the creator of the [C Healthy](https://github.com/trgchinhh/C_healthy) libr
   <img src="https://github.com/trgchinhh/github-stats/blob/generated/languages.svg#gh-dark-mode-only">
 </p>
 
-<!--
-
 I mainly work on:
 
 * Modern terminal applications (CLI / TUI)
@@ -58,6 +56,7 @@ I mainly work on:
 * Developer Tools
 * Python Libraries
 * Linux Development
+-->
 
 ---
 
@@ -78,4 +77,3 @@ Here are some of my noteworthy projects:
 * [`My Telegram Bots`](https://trgchinhh.github.io) — A collection of Telegram bots for automation, moderation, entertainment, and productivity.
 * [`Telegram Otp Demo`](https://github.com/trgchinhh/telegram-otp-demo) — A web demo for two-step authentication using OTP sent via Telegram.
 * [`Bodyindex-GUI`](https://github.com/trgchinhh/Bodyindex-GUI) - A body index calculator program built using WinForms with a basic graphical user interface.
--->
