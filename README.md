@@ -11,6 +11,8 @@ I am the creator of the [C Healthy](https://github.com/trgchinhh/C_healthy) libr
   <img src="https://github.com/trgchinhh/github-stats/blob/generated/languages.svg#gh-dark-mode-only">
 </p>
 
+![Metrics](https://github.com/trgchinhh/trgchinhh/blob/main/metrics.svg)
+
 <!--
 I mainly work on:
 
