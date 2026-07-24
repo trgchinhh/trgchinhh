@@ -7,8 +7,11 @@ I created a Python library for calculating body metrics, please [click here to l
 
 **Technology Student · Open Source · C++ & Python Developer**
 
-I enjoy designing and building open source software, especially projects that improve the C++ and Python development experience.
+I'm a technology student enjoy designing and building open source software, especially projects that create libraries to improve syntax the C++ and Python development experience.
 
+I am the creator of the [C Healthy](https://github.com/trgchinhh/C_healthy) library, a small Python project designed to guide users on [how to create a personal library](https://github.com/trgchinhh/C_healthy/blob/main/INSTRUCT.md) and publish it to [homepage PyPI](pypi.org/project/C-healthy/0.3.0/).
+
+<!--
 I mainly work on:
 
 * Modern terminal applications (CLI / TUI)
@@ -52,7 +55,7 @@ I mainly work on:
 * Developer Tools
 * Python Libraries
 * Linux Development
--->
+
 ---
 
 ![Metrics](https://github.com/trgchinhh/trgchinhh/blob/main/metrics.svg)
@@ -73,7 +76,7 @@ Here are some of my noteworthy projects:
 | [Blockchain](https://github.com/trgchinhh/blockchain-cpp) | Simulating the core operational mechanisms of a blockchain using C++. |
 | [Elevator](https://github.com/trgchinhh/elevator-cpp) | An interactive elevator system simulator implemented in modern C++. |
 | [My Telegram Bots](https://trgchinhh.github.io) | A collection of Telegram bots built for automation, moderation, and productivity. |
--->
+
 
 * [`Casino Games`](https://github.com/trgchinhh/casinogame-cpp) — A collection of classic console casino games with a simple and interactive interface.
 * [`Clibrary`](https://github.com/trgchinhh/Clibrary-hpp) — A collection of modern C++ utility libraries that provide concise, Python-like syntax while remaining lightweight and header-only.
@@ -84,3 +87,4 @@ Here are some of my noteworthy projects:
 * [`My Telegram Bots`](https://trgchinhh.github.io) — A collection of Telegram bots for automation, moderation, entertainment, and productivity.
 * [`Telegram Otp Demo`](https://github.com/trgchinhh/telegram-otp-demo) — A web demo for two-step authentication using OTP sent via Telegram.
 * [`Bodyindex-GUI`](https://github.com/trgchinhh/Bodyindex-GUI) - A body index calculator program built using WinForms with a basic graphical user interface.
+-->
