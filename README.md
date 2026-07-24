@@ -68,22 +68,6 @@ I mainly work on:
 
 Here are some of my noteworthy projects:
 
-<!--
-| Project | Description |
-|---------|-------------|
-| [Library C-healthy](https://github.com/trgchinhh/library-C_healthy) | A Python library for calculating health metrics and a guide to building Python libraries. |
-| [Clibrary](https://github.com/trgchinhh/Clibrary-hpp) | C++ libraries that offer Python-like syntax, enabling concise and flexible usage. |
-| [Caro Game](https://github.com/trgchinhh/carogame-cpp) | A simple Tic-Tac-Toe game in C++ with a colorful board. |
-| [Casino Games](https://github.com/trgchinhh/casinogame-cpp) | A collection of computer games with a simple and intuitive interface. |
-| [Blockchain](https://github.com/trgchinhh/blockchain-cpp) | Simulating the core operational mechanisms of a blockchain using C++. |
-| [Elevator](https://github.com/trgchinhh/elevator-cpp) | An interactive elevator system simulator implemented in modern C++. |
-| [My Telegram Bots](https://trgchinhh.github.io) | A collection of Telegram bots built for automation, moderation, and productivity. |
--->
-
-## Projects
-
-Here are some of my noteworthy projects:
-
 * [`Casino Games`](https://github.com/trgchinhh/casinogame-cpp) — A collection of classic console casino games with a simple and interactive interface.
 * [`Clibrary`](https://github.com/trgchinhh/Clibrary-hpp) — A collection of modern C++ utility libraries that provide concise, Python-like syntax while remaining lightweight and header-only.
 * [`Library C-healthy`](https://github.com/trgchinhh/library-C_healthy) — A Python library for calculating health metrics, along with a complete guide to building and publishing Python libraries.
