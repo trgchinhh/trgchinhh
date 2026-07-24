@@ -2,16 +2,16 @@
 
 **Technology Student · Open Source · C++ & Python Developer**
 
-I'm a technology student enjoy designing and building open source software, especially projects that create libraries to improve syntax the C++ and Python development experience. My ultimate goal is to become a skilled Software Engineer.
-<!--
+I'm a technology student who enjoy designing and building open source software, especially projects that create libraries to improve syntax the C++ and Python development experience. My ultimate goal is to become a skilled Software Engineer.
+
 I am the creator of the [C Healthy](https://github.com/trgchinhh/C_healthy) library, a small Python project that calculates body metrics and provides results. The project is designed to guide users on [how to create a personal library](https://github.com/trgchinhh/C_healthy/blob/main/INSTRUCT.md) and publish it to [homepage PyPI](https://pypi.org/project/C-healthy/0.3.0/).
 
 <p align="center">
   <img src="https://github.com/trgchinhh/github-stats/blob/generated/overview.svg#gh-dark-mode-only">
   <img src="https://github.com/trgchinhh/github-stats/blob/generated/languages.svg#gh-dark-mode-only">
 </p>
--->
 
+<!--
 I mainly work on:
 
 * Modern terminal applications (CLI / TUI)
@@ -56,7 +56,7 @@ I mainly work on:
 * Developer Tools
 * Python Libraries
 * Linux Development
--->
+
 
 ---
 
@@ -78,3 +78,4 @@ Here are some of my noteworthy projects:
 * [`My Telegram Bots`](https://trgchinhh.github.io) — A collection of Telegram bots for automation, moderation, entertainment, and productivity.
 * [`Telegram Otp Demo`](https://github.com/trgchinhh/telegram-otp-demo) — A web demo for two-step authentication using OTP sent via Telegram.
 * [`Bodyindex-GUI`](https://github.com/trgchinhh/Bodyindex-GUI) - A body index calculator program built using WinForms with a basic graphical user interface.
+-->
