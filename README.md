@@ -41,7 +41,7 @@ I mainly work on:
 * **Python Tools** — automation scripts, utility tools, APIs and desktop utilities
 * **Game Development** — terminal games written in C++ and Python
 * **Git & GitHub** — open-source projects, documentation and version control
-
+<!--
 🎯 **Interests**
 
 * Open Source
@@ -52,7 +52,7 @@ I mainly work on:
 * Developer Tools
 * Python Libraries
 * Linux Development
-
+-->
 ---
 
 ![Metrics](https://github.com/trgchinhh/trgchinhh/blob/main/metrics.svg)
@@ -78,7 +78,9 @@ Here are some of my noteworthy projects:
 * [`Casino Games`](https://github.com/trgchinhh/casinogame-cpp) — A collection of classic console casino games with a simple and interactive interface.
 * [`Clibrary`](https://github.com/trgchinhh/Clibrary-hpp) — A collection of modern C++ utility libraries that provide concise, Python-like syntax while remaining lightweight and header-only.
 * [`Library C-healthy`](https://github.com/trgchinhh/library-C_healthy) — A Python library for calculating health metrics, along with a complete guide to building and publishing Python libraries.
+* [`Elevator`](https://github.com/trgchinhh/elevator-cpp) — An interactive elevator system simulator implemented in modern C++.
 * [`Blockchain`](https://github.com/trgchinhh/blockchain-cpp) — A C++ blockchain simulation featuring SHA-256 hashing, RSA digital signatures, and Proof of Work (PoW).
+* [`Sorting Algorithm`](https://github.com/trgchinhh/Sorting-Algorithm) — Implementing 15 common sorting algorithms in C++
 * [`My Telegram Bots`](https://trgchinhh.github.io) — A collection of Telegram bots for automation, moderation, entertainment, and productivity.
 * [`Telegram Otp Demo`](https://github.com/trgchinhh/telegram-otp-demo) — A web demo for two-step authentication using OTP sent via Telegram.
 * [`Bodyindex-GUI`](https://github.com/trgchinhh/Bodyindex-GUI) - A body index calculator program built using WinForms with a basic graphical user interface.
