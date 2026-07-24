@@ -69,8 +69,9 @@ I mainly work on:
 
 Here are some of my noteworthy projects:
 
+* [`Caro Game`](https://github.com/trgchinhh/carogame-cpp) — A simple Tic-Tac-Toe game in C++ with a colorful board
 * [`Casino Games`](https://github.com/trgchinhh/casinogame-cpp) — A collection of classic console casino games with a simple and interactive interface.
-* [`Clibrary`](https://github.com/trgchinhh/Clibrary-hpp) — A collection of modern C++ utility libraries that provide concise, Python-like syntax while remaining lightweight and header-only.
+* [`Clibrary`](https://github.com/trgchinhh/Clibrary-hpp) — A collection of modern C++ utility libraries that provide concise, Python like syntax while remaining lightweight and header only.
 * [`Library C-healthy`](https://github.com/trgchinhh/library-C_healthy) — A Python library for calculating health metrics, along with a complete guide to building and publishing Python libraries.
 * [`Elevator`](https://github.com/trgchinhh/elevator-cpp) — An interactive elevator system simulator implemented in modern C++.
 * [`Blockchain`](https://github.com/trgchinhh/blockchain-cpp) — A C++ blockchain simulation featuring SHA-256 hashing, RSA digital signatures, and Proof of Work (PoW).
