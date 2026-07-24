@@ -1,5 +1,3 @@
-# Truong Chinh
-
 **Technology Student · Open Source · C++ & Python Developer**
 
 I'm a technology student enjoy designing and building open source software, especially projects that create libraries to improve syntax the C++ and Python development experience. My ultimate goal is to become a skilled Software Engineer.
