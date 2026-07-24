@@ -11,6 +11,11 @@ I'm a technology student enjoy designing and building open source software, espe
 
 I am the creator of the [C Healthy](https://github.com/trgchinhh/C_healthy) library, a small Python project designed to guide users on [how to create a personal library](https://github.com/trgchinhh/C_healthy/blob/main/INSTRUCT.md) and publish it to [homepage PyPI](pypi.org/project/C-healthy/0.3.0/).
 
+<p align="center">
+  <img src="https://github.com/trgchinhh/github-stats/blob/generated/overview.svg">
+  <img src="https://github.com/trgchinhh/github-stats/blob/generated/languages.svg">
+</p>
+
 <!--
 I mainly work on:
 
