@@ -28,7 +28,7 @@ I mainly work on:
 💻 **Tech stack**
 
 * **C / C++**
-* **Python / Lua / JS**
+* **Python / Java / JS**
 * **C# / WinForms**
 * **Git / Linux / Batch Script**
 
