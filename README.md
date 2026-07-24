@@ -12,6 +12,7 @@ I am the creator of the [C Healthy](https://github.com/trgchinhh/C_healthy) libr
   <img src="https://github.com/trgchinhh/github-stats/blob/generated/languages.svg#gh-dark-mode-only">
 </p>
 
+<!--
 I mainly work on:
 
 * Modern terminal applications (CLI / TUI)
@@ -56,14 +57,14 @@ I mainly work on:
 * Developer Tools
 * Python Libraries
 * Linux Development
--->
+
 
 ---
 
 ![Metrics](https://github.com/trgchinhh/trgchinhh/blob/main/metrics.svg)
 
 ---
-
+-->
 ## Projects
 
 Here are some of my noteworthy projects:
