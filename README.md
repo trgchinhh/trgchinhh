@@ -1,17 +1,18 @@
+
 # Truong Chinh
 
 **Technology Student · Open Source · C++ & Python Developer**
 
 I'm a technology student enjoy designing and building open source software, especially projects that create libraries to improve syntax the C++ and Python development experience. My ultimate goal is to become a skilled Software Engineer.
-
+<!--
 I am the creator of the [C Healthy](https://github.com/trgchinhh/C_healthy) library, a small Python project designed to guide users on [how to create a personal library](https://github.com/trgchinhh/C_healthy/blob/main/INSTRUCT.md) and publish it to [homepage PyPI](https://pypi.org/project/C-healthy/0.3.0/).
 
 <p align="center">
   <img src="https://github.com/trgchinhh/github-stats/blob/generated/overview.svg#gh-dark-mode-only">
   <img src="https://github.com/trgchinhh/github-stats/blob/generated/languages.svg#gh-dark-mode-only">
 </p>
+-->
 
-<!--
 I mainly work on:
 
 * Modern terminal applications (CLI / TUI)
@@ -44,6 +45,7 @@ I mainly work on:
 * **Python Tools** — automation scripts, utility tools, APIs and desktop utilities
 * **Game Development** — terminal games written in C++ and Python
 * **Git & GitHub** — open-source projects, documentation and version control
+
 <!--
 🎯 **Interests**
 
@@ -55,7 +57,7 @@ I mainly work on:
 * Developer Tools
 * Python Libraries
 * Linux Development
-
+-->
 ---
 
 ![Metrics](https://github.com/trgchinhh/trgchinhh/blob/main/metrics.svg)
@@ -76,7 +78,7 @@ Here are some of my noteworthy projects:
 | [Blockchain](https://github.com/trgchinhh/blockchain-cpp) | Simulating the core operational mechanisms of a blockchain using C++. |
 | [Elevator](https://github.com/trgchinhh/elevator-cpp) | An interactive elevator system simulator implemented in modern C++. |
 | [My Telegram Bots](https://trgchinhh.github.io) | A collection of Telegram bots built for automation, moderation, and productivity. |
-
+-->
 
 ## Projects
 
@@ -91,4 +93,3 @@ Here are some of my noteworthy projects:
 * [`My Telegram Bots`](https://trgchinhh.github.io) — A collection of Telegram bots for automation, moderation, entertainment, and productivity.
 * [`Telegram Otp Demo`](https://github.com/trgchinhh/telegram-otp-demo) — A web demo for two-step authentication using OTP sent via Telegram.
 * [`Bodyindex-GUI`](https://github.com/trgchinhh/Bodyindex-GUI) - A body index calculator program built using WinForms with a basic graphical user interface.
--->
