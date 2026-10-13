@@ -2,12 +2,11 @@ I'm a technology student who enjoys designing and building open source software,
 
 I'm the creator of the [C Healthy](https://github.com/trgchinhh/C_healthy) library, a small Python project that calculates body metrics and provides results. The project is designed to guide users on [how to create a personal library](https://github.com/trgchinhh/C_healthy/blob/main/INSTRUCT.md) and publish it to [homepage PyPI](https://pypi.org/project/C-healthy/0.3.0/).
 
-<!--
 <p align="center">
   <img src="https://github.com/trgchinhh/github-stats/blob/generated/overview.svg#gh-dark-mode-only">
   <img src="https://github.com/trgchinhh/github-stats/blob/generated/languages.svg#gh-dark-mode-only">
 </p>
--->
+
 
 <!--
 I mainly work on:
