@@ -1,14 +1,17 @@
 I'm a technology student who enjoys designing and building open source software, with a strong interest in blockchain technology, cryptographic algorithms, and cybersecurity standards such as NIST. I enjoy working on low level, terminal based applications and system programming. My ultimate goal is to become a skilled Blockchain Developer
 
+--- 
+<!--
 I'm the creator of the [C Healthy](https://github.com/trgchinhh/C_healthy) library, a small Python project that calculates body metrics and provides results. The project is designed to guide users on [how to create a personal library](https://github.com/trgchinhh/C_healthy/blob/main/INSTRUCT.md) and publish it to [homepage PyPI](https://pypi.org/project/C-healthy/0.3.0/)
-
+-->
+<!--
 <p align="center">
   <img src="https://github.com/trgchinhh/github-stats/blob/generated/overview.svg#gh-dark-mode-only">
   <img src="https://github.com/trgchinhh/github-stats/blob/generated/languages.svg#gh-dark-mode-only">
 </p>
+-->
 
 
-<!--
 I mainly work on:
 
 * Modern terminal applications (CLI / TUI)
@@ -42,19 +45,6 @@ I mainly work on:
 * **Game Development** — terminal games written in C++ and Python
 * **Git & GitHub** — open-source projects, documentation and version control
 
-<!--
-🎯 **Interests**
-
-* Open Source
-* Modern C++
-* Terminal UI (CLI / TUI)
-* Software Architecture
-* Cryptography
-* Developer Tools
-* Python Libraries
-* Linux Development
-
-
 ---
 
 ![Metrics](https://github.com/trgchinhh/trgchinhh/blob/main/metrics.svg)
@@ -75,4 +65,3 @@ Here are some of my noteworthy projects:
 * [`My Telegram Bots`](https://trgchinhh.github.io) — A collection of Telegram bots for automation, moderation, entertainment, and productivity.
 * [`Telegram Otp Demo`](https://github.com/trgchinhh/telegram-otp-demo) — A web demo for two-step authentication using OTP sent via Telegram.
 * [`Bodyindex-GUI`](https://github.com/trgchinhh/Bodyindex-GUI) - A body index calculator program built using WinForms with a basic graphical user interface.
--->
