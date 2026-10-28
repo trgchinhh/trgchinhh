@@ -9,7 +9,7 @@ I'm the creator of the [C Healthy](https://github.com/trgchinhh/C_healthy) libra
 </p>
 -->
 
----
+<!--
 
 I mainly work on:
 
@@ -64,4 +64,4 @@ Here are some of my noteworthy projects:
 * [`My Telegram Bots`](https://trgchinhh.github.io) — A collection of Telegram bots for automation, moderation, entertainment, and productivity.
 * [`Telegram Otp Demo`](https://github.com/trgchinhh/telegram-otp-demo) — A web demo for two-step authentication using OTP sent via Telegram.
 * [`Bodyindex-GUI`](https://github.com/trgchinhh/Bodyindex-GUI) - A body index calculator program built using WinForms with a basic graphical user interface.
-
+-->
