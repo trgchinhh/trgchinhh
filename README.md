@@ -1,6 +1,8 @@
+<!--
 I'm a technology student who enjoys designing and building open source software, with a strong interest in blockchain technology, cryptographic algorithms, and cybersecurity standards such as NIST. I enjoy working on low level, terminal based applications and system programming. My ultimate goal is to become a skilled Blockchain Developer
 
 I'm the creator of the [C Healthy](https://github.com/trgchinhh/C_healthy) library, a small Python project that calculates body metrics and provides results. The project is designed to guide users on [how to create a personal library](https://github.com/trgchinhh/C_healthy/blob/main/INSTRUCT.md) and publish it to [homepage PyPI](https://pypi.org/project/C-healthy/0.3.0/)
+-->
 
 <!--
 <p align="center">
